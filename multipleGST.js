@@ -32,7 +32,7 @@ $('#calculate').click(function(){
 	$("#result").text(
 		"Subtotal: "+totalItemCost.toFixed(2) + 
 		" GST: "+gstAmount.toFixed(2) +
-		" Total: "+totalItemCost.toFixed(2)
+		" Total: "+totalCost.toFixed(2)
 		);
 	
 
