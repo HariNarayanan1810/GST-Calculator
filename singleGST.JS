@@ -1,4 +1,5 @@
-  var itemCost = Number($("input[name='item']").val());
+$("button").click(function(){
+var itemCost = Number($("input[name='item']").val());
   
 	var gst = Number($("input[name='gst']").val());
 
