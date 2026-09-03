@@ -7,7 +7,7 @@
 	var totalCost = itemCost + gstAmount;
 
 	$("#result").text(
-		" Total: "+totalItemCost.toFixed(2)
+		" Total: "+totalCost.toFixed(2)
 		);
 	
 
